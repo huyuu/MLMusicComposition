@@ -7,6 +7,7 @@
 //
 
 import UIKit
+var Q = [Reaction: Double]()
 
 class ViewController: UIViewController {
 
